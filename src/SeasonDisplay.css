@@ -16,17 +16,17 @@
 
 
 .Winter {
-  background-color:lightsteelblue;
+  background-color:rgb(234, 248, 255);
 }
 
 .Summer {
-  background-color: orangered;
+  background-color: rgb(255, 161, 20);
 }
 
 .season-display.Winter i {
-  color: blue;
+  color: rgb(41, 116, 255);
 }
 
 .season-display.Summer i {
-  color: red;
+  color: rgb(255, 38, 0);
 }
